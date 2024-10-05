@@ -1,4 +1,4 @@
 
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('JavaScript is running!');
+    console.log('Welcome to my DevOps world!');
 });
