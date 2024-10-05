@@ -3,44 +3,49 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/5.1.3/minty/bootstrap.min.css">
     <link rel="stylesheet" href="css/styles.css">
     <title>DevOps Engineer Blog</title>
 </head>
 <body>
-    <header>
-        <div class="container">
+    <header class="bg-primary text-white py-3">
+        <div class="container d-flex justify-content-between align-items-center">
             <img src="assets/images/logo.png" alt="Logo" class="logo">
             <nav>
-                <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Posts</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Contact</a></li>
+                <ul class="nav">
+                    <li class="nav-item"><a class="nav-link text-white" href="#">Home</a></li>
+                    <li class="nav-item"><a class="nav-link text-white" href="#">Posts</a></li>
+                    <li class="nav-item"><a class="nav-link text-white" href="#">About</a></li>
+                    <li class="nav-item"><a class="nav-link text-white" href="#">Contact</a></li>
                 </ul>
             </nav>
         </div>
     </header>
 
-    <main>
-        <section id="welcome">
+    <main class="container mt-5">
+        <section id="welcome" class="text-center mb-5">
             <h1>Welcome to My DevOps Blog</h1>
-            <p>Sharing Knowledge About DevOps Engineering, Best Practices, and Tools!</p>
+            <p class="lead">Sharing Knowledge About DevOps Engineering, Best Practices, and Tools!</p>
         </section>
 
         <section id="posts">
             <h2>Latest Posts</h2>
-            <article>
-                <h3><a href="posts/sample-post-1.md">Understanding Docker and Kubernetes</a></h3>
-                <p>A beginner-friendly introduction to containerization and orchestration tools. Learn how Docker and Kubernetes can improve deployment pipelines...</p>
-            </article>
-            <article>
-                <h3><a href="posts/sample-post-2.md">CI/CD Pipeline with GitHub Actions</a></h3>
-                <p>Step-by-step guide on how to set up your own CI/CD pipeline using GitHub Actions...</p>
-            </article>
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h3 class="card-title"><a href="posts/sample-post-1.md">Understanding Docker and Kubernetes</a></h3>
+                    <p class="card-text">A beginner-friendly introduction to containerization and orchestration tools. Learn how Docker and Kubernetes can improve deployment pipelines...</p>
+                </div>
+            </div>
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h3 class="card-title"><a href="posts/sample-post-2.md">CI/CD Pipeline with GitHub Actions</a></h3>
+                    <p class="card-text">Step-by-step guide on how to set up your own CI/CD pipeline using GitHub Actions...</p>
+                </div>
+            </div>
         </section>
     </main>
 
-    <footer>
+    <footer class="bg-dark text-white text-center py-3 mt-5">
         <p>&copy; 2024 DevOps Engineer Blog. All rights reserved.</p>
     </footer>
 
