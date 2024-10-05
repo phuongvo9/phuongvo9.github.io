@@ -1,19 +1,50 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
 }
 
 header {
-    background-color: #f8f9fa;
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+}
+
+header nav ul li {
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+#posts article {
+    background: #fff;
     padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+footer {
     text-align: center;
-}
-
-header img {
-    max-width: 100px;
-}
-
-main {
     padding: 20px;
+    background: #333;
+    color: #fff;
 }
