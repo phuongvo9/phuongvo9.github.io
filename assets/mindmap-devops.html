@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>DevOps Mindmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.13.3/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@6.7.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/markmap-view@0.13.3"></script>
+<script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.13.3/dist/index.umd.min.js"></script>
+<script>
+(() => {
+  setTimeout(() => {
+    const { markmap: Markmap, mm } = window;
+    const toolbar = new Markmap.Toolbar();
+    toolbar.attach(mm);
+    const toolbarElement = toolbar.render();
+    toolbarElement.setAttribute("style", "position:absolute;bottom:20px;right:20px");
+    document.body.append(toolbarElement);
+  });
+})();
+</script>
+<script>
+((createMarkmap, deriveOptions, data) => {
+  const mm = createMarkmap();
+  window.mm = mm.Markmap.create("svg#mindmap", (deriveOptions || mm.deriveOptions)(data), data);
+})(() => window.markmap, null, {
+  "type": "heading",
+  "depth": 1,
+  "content": "DevOps",
+  "children": [
+    {
+      "type": "heading",
+      "depth": 2,
+      "content": "Cloud Platforms",
+      "children": [
+        {
+          "type": "list_item",
+          "depth": 3,
+          "content": "AWS"
+        },
+        {
+          "type": "list_item",
+          "depth": 3,
+          "content": "Azure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "content": "Infrastructure as Code",
+      "children": [
+        {
+          "type": "list_item",
+          "depth": 3,
+          "content": "Terraform"
+        },
+        {
+          "type": "list_item",
+          "depth": 3,
+          "content": "ARM Templates"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "content": "Container Orchestration",
+      "children": [
+        {
+          "type": "list_item",
+          "depth": 3,
+          "content": "Kubernetes"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "content": "Automation and Scripting",
+      "children": [
+        {
+          "type": "list_item",
+          "depth": 3,
+          "content": "Bash"
+        },
+        {
+          "type": "list_item",
+          "depth": 3,
+          "content": "Python"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "content": "CI/CD Pipelines",
+      "children": [
+        {
+          "type": "list_item",
+          "depth": 3,
+          "content": "Azure Pipelines"
+        },
+        {
+          "type": "list_item",
+          "depth": 3,
+          "content": "GitOps"
+        }
+      ]
+    }
+  ]
+});
+</script>
+</body>
+</html>
