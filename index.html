@@ -3,23 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Pages Site</title>
     <link rel="stylesheet" href="css/styles.css">
+    <title>DevOps Engineer Blog</title>
 </head>
 <body>
     <header>
-        <img src="assets/images/logo.png" alt="Logo">
-        <h1>Welcome to My GitHub Pages Site</h1>
+        <div class="container">
+            <img src="assets/images/logo.png" alt="Logo" class="logo">
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Posts</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
+
     <main>
-        <article>
+        <section id="welcome">
+            <h1>Welcome to My DevOps Blog</h1>
+            <p>Sharing Knowledge About DevOps Engineering, Best Practices, and Tools!</p>
+        </section>
+
+        <section id="posts">
             <h2>Latest Posts</h2>
-            <ul>
-                <li><a href="posts/sample-post-1.md">Sample Post 1</a></li>
-                <li><a href="posts/sample-post-2.md">Sample Post 2</a></li>
-            </ul>
-        </article>
+            <article>
+                <h3><a href="posts/sample-post-1.md">Understanding Docker and Kubernetes</a></h3>
+                <p>A beginner-friendly introduction to containerization and orchestration tools. Learn how Docker and Kubernetes can improve deployment pipelines...</p>
+            </article>
+            <article>
+                <h3><a href="posts/sample-post-2.md">CI/CD Pipeline with GitHub Actions</a></h3>
+                <p>Step-by-step guide on how to set up your own CI/CD pipeline using GitHub Actions...</p>
+            </article>
+        </section>
     </main>
+
+    <footer>
+        <p>&copy; 2024 DevOps Engineer Blog. All rights reserved.</p>
+    </footer>
+
     <script src="js/main.js"></script>
 </body>
 </html>
