@@ -4,7 +4,7 @@
 |:---:|
 | DevOps For Beginners - _Sketchnote Overview_ |
 
-Explore the world of **DevOps** with our 12-week, 24-lesson curriculum! It includes practical lessons, quizzes, and labs. The curriculum is beginner-friendly and covers tools like Kubernetes, Terraform, Azure, and AWS, as well as DevOps best practices and automation.
+Explore the world of **DevOps** with the 12-week, 24-lesson curriculum! It includes practical lessons, quizzes, and labs. The curriculum is beginner-friendly and covers tools like Kubernetes, Terraform, Azure, and AWS, as well as DevOps best practices and automation.
 
 ## What you will learn
 
@@ -35,8 +35,19 @@ What we will not cover in this curriculum:
 |     |                                                                 Lesson Link                                                                  |                                           Tools & Frameworks                                          | Lab                                                            |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------ |
 | 0  |                                 [Course Setup](./lessons/0-course-setup/setup.md)                                 |                      [Setup Your Development Environment](./lessons/0-course-setup/how-to-run.md)                       |   |
-| I  |               [**Introduction to DevOps**](./lessons/1-Intro/README.md)      | | |
+| I  |               [**Getting started with the basics**](./lessons/1-Intro/README.md)      | | |
 | 01  |       [Introduction and History of DevOps](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 01a  |       [What is DevOps](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 01a  |       [People in DevOps](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 01a  |       [Process in DevOps](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 01a  |       [Product and Technology in DevOps](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 02  |       [Linux Fundamentals](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 03  |       [Network Fundamentals](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 04  |       [Applications Fundamentals](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 05  |       [Git](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 06  |       [Database Fundamentals](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 07  |       [Security Fundamentals](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 08  |       [2 Tier applications](./lessons/1-Intro/README.md)       |           -                            | -  |
 | II |              **GitOps**              |
 | 02  |       [GitOps and Version Control](./lessons/2-GitOps/README.md)       |            [Git Basics](./lessons/2-GitOps/GitBasics.md) /  [GitOps with Kubernetes](./lessons/2-GitOps/KubernetesGitOps.md)                             |  |
 | III |                        [**Cloud Platforms Overview**](./lessons/3-Cloud/README.md) |||
@@ -68,10 +79,6 @@ What we will not cover in this curriculum:
 
 Don't forget to star (🌟) this repo to find it easier later.
 
-## Meet other Learners
-
-Join our [official DevOps Discord server](https://aka.ms/devops-discord) to meet and network with other learners taking this course and get support.
-
 ## Quizzes
 
 > **A note about quizzes**: All quizzes are contained in the Quiz-app folder in etc\quiz-app. They are linked from within the lessons. The quiz app can be run locally or deployed to Azure; follow the instructions in the `quiz-app` folder.
@@ -81,15 +88,11 @@ Join our [official DevOps Discord server](https://aka.ms/devops-discord) to meet
 Do you have suggestions or found spelling or code errors? Raise an issue or create a pull request.
 
 ## Special Thanks
+* **🙏 Core Contributors:** [Contributors](https://github.com/phuongvo9)
 
-* **✍️ Primary Author:** [Your Name]
-* **🔥 Editor:** [Your Editor's Name]
-* **✅ Quiz Creator:** [Lateefah Bello](https://github.com/CinnamonXI)
-* **🙏 Core Contributors:** [Contributor Name](https://github.com/ContributorUsername)
+## Inspired by Curricula from Microsoft Learn
 
-## Other Curricula
-
-Our team produces other curricula! Check out:
+*Special thanks to Microsoft Learn for their inspiring curricula. Their comprehensive and beginner-friendly courses have motivated me to create this DevOps curriculum to help others embark on their DevOps journey.*
 
 * [Data Science for Beginners](https://aka.ms/ds4beginners)
 * [Machine Learning for Beginners](https://aka.ms/ml4beginners)

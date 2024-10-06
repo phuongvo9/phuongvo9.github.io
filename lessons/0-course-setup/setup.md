@@ -18,7 +18,6 @@ Ensure you have administrator access to install the required software.
 First, clone the course repository to your local machine:
 
 ```bash
-# Replace <your-github-username> with your GitHub username
 git clone https://github.com/phuongvo9/DevOps-Essentials
 ```
 
