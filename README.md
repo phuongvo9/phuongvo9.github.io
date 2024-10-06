@@ -59,11 +59,9 @@ What we will not cover in this curriculum:
 | 19  |       [Service management with SYSTEMD](./lessons/1-Intro/README.md)       |           -                            | -  |
 | 20  |       [Storage in Linux](./lessons/1-Intro/README.md)       |           -                            | -  |
 | III |              **Shell scripting**              |
-| 20  |       [Shell condition](./lessons/1-Intro/README.md)       |           -                            | -  |
-| 20  |       [Shell flow control](./lessons/1-Intro/README.md)       |           -                            | -  |
-| 20  |       [Shell scripting project](./lessons/1-Intro/README.md)       |           -                            | -  |
-| IV |              **Programming with Golang**              |
-| 20  |       [Basic Go](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 21  |       [Shell condition](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 2x  |       [Shell flow control](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 2x  |       [Shell scripting project](./lessons/1-Intro/README.md)       |           -                            | -  |
 | V |            **CI/CD Pipelines**             | [Azure DevOps](./lessons/6-CICD/AzureDevOps.md) | [Create a Pipeline](./lessons/6-CICD/CreatePipeline.md)|
 | 08  |            [Introduction to CI/CD](./lessons/6-CICD/08-CICD/README.md)             |           [Azure Pipelines](./lessons/6-CICD/AzurePipelines.md)             | [Lab](./lessons/6-CICD/08-CICD/lab/README.md) |
 | VI |              **Docker Container**              |
@@ -76,9 +74,10 @@ What we will not cover in this curriculum:
 | 05  |            [Infrastructure as Code with Terraform](./lessons/4-IaC/README.md)             |           [Terraform Basics](./lessons/4-IaC/TerraformBasics.md) / [AWS IaC](./lessons/4-IaC/AWSIaC.md)             | [Lab](./lessons/4-IaC/lab/README.md) |
 | IX |              **GitOps**              |
 | 02  |       [GitOps and Version Control](./lessons/2-GitOps/README.md)       |            [Git Basics](./lessons/2-GitOps/GitBasics.md) /  [GitOps with Kubernetes](./lessons/2-GitOps/KubernetesGitOps.md)                             |  |
-
 | X |            [**Automation with Scripting**](./lessons/7-Automation/README.md)             | [Bash Scripting](./lessons/7-Automation/Bash.md) | [Automate with Bash](./lessons/7-Automation/Automate.md) |
 | 09  |            [Advanced Bash Techniques](./lessons/7-Automation/09-AdvancedBash/README.md)             |           [Loops and Conditionals](./lessons/7-Automation/AdvancedBash.md)             | [Lab](./lessons/7-Automation/09-AdvancedBash/lab/README.md) |
+| IV |              **Programming with Golang**              |
+| 20  |       [Basic Go](./lessons/1-Intro/README.md)       |           -                            | -  |
 | XI |            **Python for DevOps**             |||
 | 10  |            [Introduction to Python for DevOps](./lessons/8-Python/README.md)             |           [Automating with Python](./lessons/8-Python/AutomatePython.md)             | [Lab](./lessons/8-Python/lab/README.md) |
 | XII  |            **Use case** | | |
