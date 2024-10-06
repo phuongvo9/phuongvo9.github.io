@@ -81,6 +81,9 @@ What we will not cover in this curriculum:
 | 34  |            [Introduction to Python for DevOps](./lessons/8-Python/README.md)             |           [Automating with Python](./lessons/8-Python/AutomatePython.md)             | [Lab](./lessons/8-Python/lab/README.md) |
 | XII  |            **Use case** | | |
 | 35  |            [DevOps Best Practices](./lessons/9-BestPractices/README.md)             |           [Documentation and Testing](./lessons/9-BestPractices/Documentation.md)    | |
+| XIII  |            **Hello World** | | |
+| 36  |            [Hello Wolrd in Finland](./lessons/9-BestPractices/README.md)             |           [Documentation and Testing](./lessons/9-BestPractices/Documentation.md)    | |
+
 
 ## Each lesson contains
 
