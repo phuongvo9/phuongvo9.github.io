@@ -37,33 +37,51 @@ What we will not cover in this curriculum:
 | 0  |                                 [Course Setup](./lessons/0-course-setup/setup.md)                                 |                      [Setup Your Development Environment](./lessons/0-course-setup/how-to-run.md)                       |   |
 | I  |               [**Getting started with the basics**](./lessons/1-Intro/README.md)      | | |
 | 01  |       [Introduction and History of DevOps](./lessons/1-Intro/README.md)       |           -                            | -  |
-| 01a  |       [What is DevOps](./lessons/1-Intro/README.md)       |           -                            | -  |
-| 01a  |       [People in DevOps](./lessons/1-Intro/README.md)       |           -                            | -  |
-| 01a  |       [Process in DevOps](./lessons/1-Intro/README.md)       |           -                            | -  |
-| 01a  |       [Product and Technology in DevOps](./lessons/1-Intro/README.md)       |           -                            | -  |
-| 02  |       [Linux Fundamentals](./lessons/1-Intro/README.md)       |           -                            | -  |
-| 03  |       [Network Fundamentals](./lessons/1-Intro/README.md)       |           -                            | -  |
-| 04  |       [Applications Fundamentals](./lessons/1-Intro/README.md)       |           -                            | -  |
-| 05  |       [Git](./lessons/1-Intro/README.md)       |           -                            | -  |
-| 06  |       [Database Fundamentals](./lessons/1-Intro/README.md)       |           -                            | -  |
-| 07  |       [Security Fundamentals](./lessons/1-Intro/README.md)       |           -                            | -  |
-| 08  |       [2 Tier applications](./lessons/1-Intro/README.md)       |           -                            | -  |
-| II |              **GitOps**              |
-| 02  |       [GitOps and Version Control](./lessons/2-GitOps/README.md)       |            [Git Basics](./lessons/2-GitOps/GitBasics.md) /  [GitOps with Kubernetes](./lessons/2-GitOps/KubernetesGitOps.md)                             |  |
-| III |                        [**Cloud Platforms Overview**](./lessons/3-Cloud/README.md) |||
+| 02  |       [What is DevOps](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 03  |       [People in DevOps](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 04  |       [Process in DevOps](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 05  |       [Product and Technology in DevOps](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 06  |       [Linux Fundamentals](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 07  |       [Network Fundamentals](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 08  |       [Applications Fundamentals](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 09  |       [Git fundamentals](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 10  |       [Database Fundamentals](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 11  |       [Security Fundamentals](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 12  |       [2 Tier applications](./lessons/1-Intro/README.md)       |           -                            | -  |
+| II |              **Linux**              |
+| 13  |       [Introduction to Linux](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 13  |       [Working with shell 1](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 14  |       [Linux core concepts](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 15  |       [Package management](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 16  |       [Working with shell 2](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 17  |       [Networking](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 18  |       [Security and Permissions](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 19  |       [Service management with SYSTEMD](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 20  |       [Storage in Linux](./lessons/1-Intro/README.md)       |           -                            | -  |
+| III |              **Shell scripting**              |
+| 20  |       [Shell condition](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 20  |       [Shell flow control](./lessons/1-Intro/README.md)       |           -                            | -  |
+| 20  |       [Shell scripting project](./lessons/1-Intro/README.md)       |           -                            | -  |
+| IV |              **Programming with Golang**              |
+| 20  |       [Basic Go](./lessons/1-Intro/README.md)       |           -                            | -  |
+| V |            **CI/CD Pipelines**             | [Azure DevOps](./lessons/6-CICD/AzureDevOps.md) | [Create a Pipeline](./lessons/6-CICD/CreatePipeline.md)|
+| 08  |            [Introduction to CI/CD](./lessons/6-CICD/08-CICD/README.md)             |           [Azure Pipelines](./lessons/6-CICD/AzurePipelines.md)             | [Lab](./lessons/6-CICD/08-CICD/lab/README.md) |
+| VI |              **Docker Container**              |
+| VII  |            [**Kubernetes Basics**](./lessons/5-Kubernetes/README.md)             | [Kubernetes Setup Guide](./lessons/5-Kubernetes/SetupGuide.md)| [Explore Kubernetes](./lessons/5-Kubernetes/Explore.md) |
+| 06  |            [Understanding Pods, Nodes, and Services](./lessons/5-Kubernetes/06-Basics/README.md)             |           [Kubernetes Commands](./lessons/5-Kubernetes/Commands.md)         | [Lab](./lessons/5-Kubernetes/06-Basics/lab/README.md) |
+| 07  |            [Kubernetes Deployment Strategies](./lessons/5-Kubernetes/07-Deployment/README.md)             |           [Blue-Green Deployment](./lessons/5-Kubernetes/BlueGreen.md) / [Canary Release](./lessons/5-Kubernetes/CanaryRelease.md)             | [Lab](./lessons/5-Kubernetes/07-Deployment/lab/README.md) |
+| VIII |       [**Cloud Platforms Overview**](./lessons/3-Cloud/README.md) |||
 | 03  |                [Introduction to AWS and Azure](./lessons/3-Cloud/03-AWS-Azure/README.md)                 |                       [AWS Setup Guide](./lessons/3-Cloud/03-AWS-Azure/AWSSetup.md) / [Azure Basics](./lessons/3-Cloud/03-AWS-Azure/AzureSetup.md)                      | [Lab](./lessons/3-Cloud/03-AWS-Azure/lab/README.md) |
 | 04  |                   [Multi-Cloud Environments](./lessons/3-Cloud/04-MultiCloud/README.md)                   |        [Multi-Cloud Strategies](./lessons/3-Cloud/04-MultiCloud/Strategies.md)        | [Lab](./lessons/3-Cloud/04-MultiCloud/lab/README.md) |
 | 05  |            [Infrastructure as Code with Terraform](./lessons/4-IaC/README.md)             |           [Terraform Basics](./lessons/4-IaC/TerraformBasics.md) / [AWS IaC](./lessons/4-IaC/AWSIaC.md)             | [Lab](./lessons/4-IaC/lab/README.md) |
-| IV  |            [**Kubernetes Basics**](./lessons/5-Kubernetes/README.md)             | [Kubernetes Setup Guide](./lessons/5-Kubernetes/SetupGuide.md)| [Explore Kubernetes](./lessons/5-Kubernetes/Explore.md) |
-| 06  |            [Understanding Pods, Nodes, and Services](./lessons/5-Kubernetes/06-Basics/README.md)             |           [Kubernetes Commands](./lessons/5-Kubernetes/Commands.md)         | [Lab](./lessons/5-Kubernetes/06-Basics/lab/README.md) |
-| 07  |            [Kubernetes Deployment Strategies](./lessons/5-Kubernetes/07-Deployment/README.md)             |           [Blue-Green Deployment](./lessons/5-Kubernetes/BlueGreen.md) / [Canary Release](./lessons/5-Kubernetes/CanaryRelease.md)             | [Lab](./lessons/5-Kubernetes/07-Deployment/lab/README.md) |
-| V |            **CI/CD Pipelines**             | [Azure DevOps](./lessons/6-CICD/AzureDevOps.md) | [Create a Pipeline](./lessons/6-CICD/CreatePipeline.md)|
-| 08  |            [Introduction to CI/CD](./lessons/6-CICD/08-CICD/README.md)             |           [Azure Pipelines](./lessons/6-CICD/AzurePipelines.md)             | [Lab](./lessons/6-CICD/08-CICD/lab/README.md) |
-| VI |            [**Automation with Scripting**](./lessons/7-Automation/README.md)             | [Bash Scripting](./lessons/7-Automation/Bash.md) | [Automate with Bash](./lessons/7-Automation/Automate.md) |
+| IX |              **GitOps**              |
+| 02  |       [GitOps and Version Control](./lessons/2-GitOps/README.md)       |            [Git Basics](./lessons/2-GitOps/GitBasics.md) /  [GitOps with Kubernetes](./lessons/2-GitOps/KubernetesGitOps.md)                             |  |
+
+| X |            [**Automation with Scripting**](./lessons/7-Automation/README.md)             | [Bash Scripting](./lessons/7-Automation/Bash.md) | [Automate with Bash](./lessons/7-Automation/Automate.md) |
 | 09  |            [Advanced Bash Techniques](./lessons/7-Automation/09-AdvancedBash/README.md)             |           [Loops and Conditionals](./lessons/7-Automation/AdvancedBash.md)             | [Lab](./lessons/7-Automation/09-AdvancedBash/lab/README.md) |
-| VII |            **Python for DevOps**             |||
+| XI |            **Python for DevOps**             |||
 | 10  |            [Introduction to Python for DevOps](./lessons/8-Python/README.md)             |           [Automating with Python](./lessons/8-Python/AutomatePython.md)             | [Lab](./lessons/8-Python/lab/README.md) |
-| VIII  |            **Extras** | | |
+| XII  |            **Use case** | | |
 | 11  |            [DevOps Best Practices](./lessons/9-BestPractices/README.md)             |           [Documentation and Testing](./lessons/9-BestPractices/Documentation.md)    | |
 
 ## Each lesson contains
