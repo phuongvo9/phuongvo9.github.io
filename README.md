@@ -1,6 +1,6 @@
-# My DevOps Journey
+# Phuong Vo's DevOps Journey
 
-Welcome to my DevOps journey! Here, I share my experiences, insights, and knowledge about DevOps and Cloud computing. Whether you're a beginner or a seasoned professional, I hope you'll find something useful and interesting.
+Welcome to Phuong Vo's DevOps journey! Here, I share my experiences, insights, and knowledge about DevOps and Cloud computing. Whether you're a beginner or a seasoned professional, I hope you'll find something useful and interesting.
 
 ## Navigation
 - [Home](https://phuongvo9.github.io)
