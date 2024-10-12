@@ -241,7 +241,13 @@ Do you have suggestions or found spelling or code errors? Raise an issue or crea
 
 *Special thanks to Microsoft Learn for their inspiring curricula. Their comprehensive and beginner-friendly courses have motivated me to create this DevOps curriculum to help others embark on their DevOps journey.*
 
-* [Data Science for Beginners](https://aka.ms/ds4beginners)
 * [Machine Learning for Beginners](https://aka.ms/ml4beginners)
 * [Web Dev for Beginners](https://aka.ms/webdev-beginners)
 * [Cybersecurity for Beginners](https://aka.ms/security-101)
+* [ML for Beginners](https://aka.ms/ml-beginners)
+* [Data Science for Beginners](https://aka.ms/datascience-beginners)
+* [AI for Beginners](https://aka.ms/ai-beginners)
+* [Cybersecurity for Beginners](https://github.com/microsoft/Security-101)
+* [IoT for Beginners](https://aka.ms/iot-beginners)
+* [XR Development for Beginners](https://github.com/microsoft/xr-development-for-beginners)
+* [Mastering GitHub Copilot for AI Paired Programming](https://aka.ms/GitHubCopilotAI)
