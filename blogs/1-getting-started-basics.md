@@ -1,4 +1,3 @@
-*Write content for getting started basics in DevOps*
 # Getting Started with DevOps: The Basics
 
 DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the development lifecycle and deliver high-quality software continuously. Here are the basics to get you started:
@@ -15,8 +14,8 @@ DevOps is about collaboration between development and operations teams. It invol
 
 ## 3. Tools and Technologies
 
-- **Version Control:** Git, GitHub, GitLab
-- **CI/CD Pipelines:** Jenkins, CircleCI, Travis CI
+- **Version Control:** Git
+- **CI/CD Pipelines:** Gitlab, Github Actions, Jenkins, CircleCI, Travis CI, Azure pipelines
 - **Configuration Management:** Ansible, Puppet, Chef
 - **Containerization:** Docker, Kubernetes
 

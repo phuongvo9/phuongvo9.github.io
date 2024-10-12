@@ -1,3 +1,133 @@
+# My DevOps Journey
+
+Welcome to my DevOps journey! Here, I share my experiences, insights, and knowledge about DevOps and Cloud computing. Whether you're a beginner or a seasoned professional, I hope you'll find something useful and interesting.
+
+## Navigation
+- [Home](https://phuongvo9.github.io)
+- [About](#introduction)
+- [Contact](#contact)
+- [Blog Categories](#categories)
+
+---
+
+## Introduction
+Hi there! I'm Phuong Vo-Huy, a DevOps enthusiast. This blog is a space where I document my journey, share tutorials, review tools, and discuss industry trends. Join me as I explore the world of DevOps!
+
+In this site, you will find:
+- **Real-world case studies** showcasing DevOps projects.
+- **Tool reviews** and comparisons to help you choose the best stack.
+- **Step-by-step tutorials** to build your skills in cloud computing, automation, and more.
+- **Career advice** for those looking to break into the field or take their skills to the next level.
+- **Interviews with industry experts**, providing insights from professionals.
+- **My personal reflections** on the evolving field of DevOps.
+
+---
+
+## Featured Posts
+Here are some of the must-read posts to get started:
+- [DevOps for Beginners: A Curriculum](#devops-for-beginners---a-curriculum)
+- [GitOps ArgoCD vs FluxCD: A Comparison](#gitops-argocd-vs-fluxcd)
+
+---
+
+## Categories
+
+### Project Case Studies
+Deep dives into real-world projects I've worked on, with a focus on practical challenges and solutions.
+- **[Case Study 1: Implementing Kubernetes in Production](#project-case-studies)**  
+  Learn how I deployed a highly scalable Kubernetes infrastructure in a live production environment. Challenges, solutions, and outcomes.
+  
+- **[Case Study 2: Migrating from Azure ARM templates to Terraform](#project-case-studies)**  
+  The journey of migrating a complex infrastructure from ARM templates to Terraform, with key lessons and best practices.
+
+---
+
+### Tool Reviews and Comparisons
+Unbiased reviews of popular DevOps tools, and my experiences working with them.
+- **[GitOps: ArgoCD vs FluxCD](#gitops-argocd-and-fluxcd)**  
+  An in-depth comparison of two GitOps solutions—when to use each, their strengths, and weaknesses.
+
+---
+
+### Tutorials and How-Tos
+Step-by-step guides to mastering essential DevOps skills.
+- **[DevOps for Beginners: A Curriculum](#devops-for-beginners---a-curriculum)**  
+  A structured learning path for newcomers in DevOps, covering topics like automation, cloud services, and CI/CD pipelines.
+
+---
+
+### Career Advice
+Tips and personal experiences on growing your DevOps career.
+- **[Career Tip: Building Your DevOps Portfolio](#career-advice)**  
+  How to showcase your projects, skills, and certifications to make yourself stand out.
+  
+- **[Advice: Certifications That Matter](#career-advice)**  
+  A breakdown of the certifications that can boost your career in DevOps.
+
+---
+
+### Industry Trends and News
+Keep up with the latest developments in DevOps and cloud technologies.
+- **[Trend Analysis: The Rise of GitOps](#industry-trends-and-news)**  
+  Why GitOps is rapidly becoming the preferred approach to managing infrastructure, and where the trend is heading.
+
+---
+
+### Interviews with Experts
+Conversations with experienced professionals from the DevOps world.
+- **[Interview with Josef Po, .NET Developer to DevOps engineer](#interviews-with-experts)**  
+  Insights from an DevOps expert in PPF
+  
+- **[Interview with Jakub H., Kubernetes Engineer](#interviews-with-experts)**  
+  Lessons from a seasoned Kubernetes engineer on managing containerized applications at scale in PPF
+
+---
+
+### Personal Reflections
+Thoughts and reflections on my own DevOps journey.
+- **[Reflection: What I’ve Learned from Failure](#personal-reflections)**  
+  A personal story of a failed deployment and the lessons learned from it.
+
+- **[Reflection: The Importance of Continuous Learning in DevOps](#personal-reflections)**  
+  Why staying on top of new tools and technologies is crucial in the fast-evolving field of DevOps.
+
+---
+
+### Book and Course Reviews
+Reviews of the best resources to help you upskill.
+- **[Book Review: The Phoenix Project](#book-and-course-reviews)**  
+  A review of this essential DevOps novel and why every DevOps engineer should read it.
+  
+- **[Course Review: Azure DevOps expert](#book-and-course-reviews)**  
+  A detailed review of the Azure DevOps expert certification course, including study tips and exam strategies.
+
+---
+
+### Community Involvement
+Sharing events and activities I've participated in within the DevOps community.
+- **[Event: DevOpsCon 2024](#community-involvement)**  
+  A summary of my experience attending DevOpsCon, including key takeaways from the talks and workshops.
+  
+- **[Event: Kubernetes Meetup](#community-involvement)**  
+  Insights from a Kubernetes meetup in my local tech community.
+
+---
+
+### Problem-Solving Stories
+Real stories of troubleshooting and problem-solving in live production environments.
+- **[Story: Debugging CI/CD Pipeline Failures](#problem-solving-stories)**  
+  How I fixed a broken CI/CD pipeline, step by step.
+
+- **[Story: Solving a Security Issue in Azure DevOps](#problem-solving-stories)**  
+  A detailed account of solving a critical security issue in an Azure DevOps environment.
+
+---
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/phuongvohuy/)
+
+---
+
 # DevOps for Beginners - A Curriculum
 
 |![ Sketchnote ](./assets/images/devops-overview.png)|
@@ -36,7 +166,7 @@ What we will not cover in this curriculum:
 | 0  |                                 [Course Setup](./blogs/0-course-setup.md)                                 |                      [Setup Your Development Environment](./blogs/0-environment-setup.md)                       |   |
 | I  |               [**Getting started with the basics**](./blogs/1-getting-started-basics.md)      | | |
 | 1  |       [Introduction and History of DevOps](./blogs/1-introduction-history.md)       |           -                            | -  |
-| 2  |       [What is DevOps](./blogs/2-what-is-devops.md)       |           -                            | -  |
+| 2  |       [What is DevOps](./blogs/1-introduction-history.md)       |           -                            | -  |
 | 3  |       [People in DevOps](./blogs/3-people-in-devops.md)       |           -                            | -  |
 | 4  |       [Process in DevOps](./blogs/4-process-in-devops.md)       |           -                            | -  |
 | 5  |       [Product and Technology in DevOps](./blogs/5-product-technology.md)       |           -                            | -  |
