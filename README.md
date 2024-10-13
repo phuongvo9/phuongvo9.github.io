@@ -168,7 +168,7 @@ What we will not cover in this curriculum:
 | 1  |       [Introduction and History of DevOps](./blogs/1-introduction-history.md)       |           -                            | -  |
 | 2  |       [What is DevOps](./blogs/1-introduction-history.md)       |           -                            | -  |
 | 3  |       [People in DevOps](./blogs/3-people-in-devops.md)       |           -                            | -  |
-| 4  |       [Process in DevOps](./blogs/4-process-in-devops.md)       |           -                            | -  |
+| 4  |       [Assses your software developement process](./blogs/4-assess-software-development-process.md)       |           -                            | -  |
 | 5  |       [Product and Technology in DevOps](./blogs/5-product-technology.md)       |           -                            | -  |
 | 6  |       [Linux Fundamentals](./blogs/6-linux-fundamentals.md)       |           -                            | -  |
 | 7  |       [Network Fundamentals](./blogs/7-network-fundamentals.md)       |           -                            | -  |
