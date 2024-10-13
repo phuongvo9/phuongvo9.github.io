@@ -235,7 +235,7 @@ Don't forget to star (🌟) this repo to find it easier later.
 Do you have suggestions or found spelling or code errors? Raise an issue or create a pull request.
 
 ## Special Thanks
-* **🙏 Core Contributors:** [Contributors](https://github.com/phuongvo9)
+* **🙏 Core Contributors:** [Contributors](https://github.com/phuongvo9/phuongvo9.github.io/graphs/contributors)
 
 ## Inspired by Curricula from Microsoft Learn
 
