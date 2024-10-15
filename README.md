@@ -2,6 +2,16 @@
 
 Welcome to Phuong Vo's DevOps journey! Here, I share my experiences, insights, and knowledge about DevOps and Cloud computing. Whether you're a beginner or a seasoned professional, I hope you'll find something useful and interesting.
 
+In this site, you will find:
+- **Real-world case studies** showcasing DevOps projects.
+- **Tool reviews** and comparisons to help you choose the best stack.
+- **Step-by-step tutorials** to build your skills in cloud computing, automation, and more.
+- **Career advice** for those looking to break into the field or take their skills to the next level.
+- **Interviews with industry experts**, providing insights from professionals.
+- **My personal reflections** on the evolving field of DevOps.
+- **DevOps for Beginners** A curriculum to learn and hands-on practice
+
+
 ## Navigation
 - [Home](https://phuongvo9.github.io)
 - [About](#introduction)
@@ -10,23 +20,9 @@ Welcome to Phuong Vo's DevOps journey! Here, I share my experiences, insights, a
 
 ---
 
-## Introduction
-Hi there! I'm Phuong Vo-Huy, a DevOps enthusiast. This blog is a space where I document my journey, share tutorials, review tools, and discuss industry trends. Join me as I explore the world of DevOps!
-
-In this site, you will find:
-- **Real-world case studies** showcasing DevOps projects.
-- **Tool reviews** and comparisons to help you choose the best stack.
-- **Step-by-step tutorials** to build your skills in cloud computing, automation, and more.
-- **Career advice** for those looking to break into the field or take their skills to the next level.
-- **Interviews with industry experts**, providing insights from professionals.
-- **My personal reflections** on the evolving field of DevOps.
-
----
-
 ## Featured Posts
 Here are some of the must-read posts to get started:
 - [DevOps for Beginners: A Curriculum](#devops-for-beginners---a-curriculum)
-- [GitOps ArgoCD vs FluxCD: A Comparison](#gitops-argocd-vs-fluxcd)
 
 ---
 
