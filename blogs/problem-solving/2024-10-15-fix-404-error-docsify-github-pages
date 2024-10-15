@@ -1,6 +1,6 @@
 # Fixing 404 Not found Docsify on GitHub Pages
 
-If you're using Docsify to host your static website on GitHub Pages, you might have encountered a frustrating issue: navigating directly to a specific page results in a "404 Page Not Found" error. This happens because GitHub Pages tries to find a file that matches the URL path, but since Docsify is a single-page application (SPA), all routing is handled client-side.
+If you're using Docsify to host your static website on GitHub Pages, you might have encountered a frustrating issue: navigating directly to a specific page results in a "404 Page Not Found" error. This is because Docsify relies on the HTML5 History API for routing, which Github Pages doesn't handle by default without additional configuration.
 
 ## Problem
 
@@ -32,6 +32,9 @@ To fix this, we need to create a custom `404.html` page that redirects all reque
 ```
 
 2. **Commit and push the `404.html` file** to your GitHub repository.
+
+3. Make sure your relativePath configuration in `window.$docsify` is set to `true`.
+Refer to the official Docsify documentation for more details: https://github.com/docsifyjs/docsify/blob/develop/docs/configuration.md
 
 ### How It Works
 
