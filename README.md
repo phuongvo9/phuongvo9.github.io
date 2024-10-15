@@ -114,12 +114,12 @@ Sharing events and activities I've participated in within the DevOps community.
 ---
 
 ### Problem-Solving Stories
-Real stories of troubleshooting and problem-solving in live production environments.
-- **[Story: Debugging CI/CD Pipeline Failures](#problem-solving-stories)**  
-  How I fixed a broken CI/CD pipeline, step by step.
+Troubleshooting and problem-solving stories in live production or preprod environments.
 
-- **[Story: Solving a Security Issue in Azure DevOps](#problem-solving-stories)**  
-  A detailed account of solving a critical security issue in an Azure DevOps environment.
+- **[Fixing 404 Errors on a Docsify Site Hosted on GitHub Pages](./blogs/problem-solving/2024-10-15-fix-404-error-docsify-github-pages)**  
+  If you're using Docsify to host your static website on GitHub Pages, you might have encountered a frustrating issue: navigating directly to a specific page results in a "404 Page Not Found" error. This guide helps you resolve it
+
+
 
 ---
 

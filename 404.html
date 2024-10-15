@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Page Not Found</title>
+  <meta http-equiv="refresh" content="0; URL=./index.html">
+  <script type="text/javascript">
+    // Redirect to the index.html with the correct path
+    var path = window.location.pathname;
+    window.location.replace('/index.html?' + path);
+  </script>
+</head>
+<body>
+  <p>Page not found. Redirecting...</p>
+</body>
+</html>
