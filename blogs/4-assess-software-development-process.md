@@ -1,3 +1,25 @@
+# Knowledge check
+
+
+1. What's the purpose of the Value Stream Mapping? 
+
+   - [ ] It helps you think about your existing processes and where you fit in the DevOps maturity model.
+
+   - [ ] It helps you gain official DevOps accreditation.
+
+   - [ ] It's just extra paperwork.
+
+
+
+2. What do we mean by waste? 
+
+   - [ ] Waste is time between tasks.
+
+   - [ ] Waste means we're having to rewrite code and throw away the old code.
+
+   - [ ] Waste is time spent on tasks that don't have direct customer value.
+
+---
 
 # Understand and improve existing development process
 
@@ -58,3 +80,13 @@ The final step is to embrace continuous improvement. This means regularly review
 3. **Make Adjustments**: Based on the feedback and review, make necessary adjustments to the process.
 
 Continuous improvement ensures that your team remains productive and your product meets customer expectations
+
+
+
+
+---
+# Answers for knowledge check
+1. What's the purpose of the Value Stream Mapping? 
+- [x] It helps you think about your existing processes and where you fit in the DevOps maturity model.
+1. What do we mean by waste? 
+- [x] Waste is time spent on tasks that don't have direct customer value.
