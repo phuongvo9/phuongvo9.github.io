@@ -111,8 +111,9 @@ Sharing events and activities I've participated in within the DevOps community.
 
 ### Problem-Solving Stories
 Troubleshooting and problem-solving stories in live production or preprod environments.
-
-- **[Fixing 404 Errors on a Docsify Site Hosted on GitHub Pages](./blogs/problem-solving/2024-10-15-fix-404-error-docsify-github-pages)**  
+- **[Understand Let's encrypt DNS SERVFAIL error](./blogs/problem-solving/2024-10-18-fix-dns-error-servfail-txt-acme-challenge.md)**  
+  If you're using Let's encrypt and have error on SERVFAIL DNS-01 authentication problem
+- **[Fixing 404 Errors on a Docsify Site Hosted on GitHub Pages](./blogs/problem-solving/2024-10-15-fix-404-error-docsify-github-pages.md)**  
   If you're using Docsify to host your static website on GitHub Pages, you might have encountered a frustrating issue: navigating directly to a specific page results in a "404 Page Not Found" error. This guide helps you resolve it
 
 
