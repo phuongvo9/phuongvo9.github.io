@@ -27,30 +27,6 @@ Here are some of the must-read posts to get started:
 ---
 
 ## Categories
-
-### Project Case Studies
-Deep dives into real-world projects I've worked on, with a focus on practical challenges and solutions.
-
-- **[Implementing GitOps with FluxCD on Azure Kubernetes Service (AKS)](#project-case-studies)**  
-  This case study explores how we leveraged FluxCD to implement GitOps on Azure Kubernetes Service (AKS). It covers the setup process, challenges faced, and the benefits of using GitOps for continuous deployment
-
-- **[Scaling Applications with Azure Kubernetes Service and GitOps](#project-case-studies)** 
-  This case study focuses on how we used Azure Kubernetes Service (AKS) and GitOps to scale applications efficiently. It discusses the architecture, deployment strategies, and the impact on application performance and reliability.
-
-- **[Optimizing Resource Management with Infrastructure as Code on Azure](#project-case-studies)** 
-  This project highlights how we optimized resource management on Azure using Infrastructure as Code (IaC) tools like ARM templates and Terraform. It discusses the strategies for resource allocation, cost management, and the overall impact on operational efficiency.
-
-- **[Deploying Microservices on Azure Kubernetes Service with GitOps](#project-case-studies)** 
-  This case study provides a detailed guide on deploying microservices on Azure Kubernetes Service (AKS) using GitOps. It covers the architecture, deployment process, and the benefits of using GitOps for managing microservices.
-
-
----
-
-### Tool Reviews and Comparisons
-Unbiased reviews of popular DevOps tools, and my experiences working with them.
-- **[GitOps: ArgoCD vs FluxCD](#gitops-argocd-and-fluxcd)**  
-  An in-depth comparison of two GitOps solutions—when to use each, their strengths, and weaknesses.
-
 ---
 
 ### Tutorials and How-Tos
@@ -62,28 +38,12 @@ Step-by-step guides to mastering essential DevOps skills.
 
 ### Career Advice
 Tips and personal experiences on growing your DevOps career.
-- **[Career Tip: Building Your DevOps Portfolio](#career-advice)**  
-  How to showcase your projects, skills, and certifications to make yourself stand out.
-  
+- **[Career Tip: Building Your DevOps Portfolio](/blogs/career-tip/building-your-devops-porfolio.md)**  
+    Breaking into the DevOps field can be challenging, but with the right approach, you can build a strong portfolio that will help you land internships, fresher positions, and eventually, more advanced roles. This guide will walk you through the steps to create a compelling DevOps portfolio and provide tips for your career progression.  
+
 - **[Advice: Certifications That Matter](#career-advice)**  
   A breakdown of the certifications that can boost your career in DevOps.
 
----
-
-### Industry Trends and News
-Keep up with the latest developments in DevOps and cloud technologies.
-- **[Trend Analysis: The Rise of GitOps](#industry-trends-and-news)**  
-  Why GitOps is rapidly becoming the preferred approach to managing infrastructure, and where the trend is heading.
-
----
-
-### Interviews with Experts
-Conversations with experienced professionals from the DevOps world.
-- **[Interview with Josef Po, .NET Developer to DevOps engineer](#interviews-with-experts)**  
-  Insights from an DevOps expert in PPF
-  
-- **[Interview with Jakub H., Kubernetes Engineer](#interviews-with-experts)**  
-  Lessons from a seasoned Kubernetes engineer on managing containerized applications at scale in PPF
 
 ---
 
@@ -119,12 +79,50 @@ Sharing events and activities I've participated in within the DevOps community.
 
 ### Problem-Solving Stories
 Troubleshooting and problem-solving stories in live production or preprod environments.
-- **[Understand Let's encrypt DNS SERVFAIL error](./blogs/problem-solving/2024-10-18-fix-dns-error-servfail-txt-acme-challenge.md)**  
+- **[Understand Let's encrypt DNS SERVFAIL error](/blogs/problem-solving/2024-10-18-fix-dns-error-servfail-txt-acme-challenge.md)**  
   If you're using Let's encrypt and have error on SERVFAIL DNS-01 authentication problem
 - **[Fixing 404 Errors on a Docsify Site Hosted on GitHub Pages](./blogs/problem-solving/2024-10-15-fix-404-error-docsify-github-pages.md)**  
   If you're using Docsify to host your static website on GitHub Pages, you might have encountered a frustrating issue: navigating directly to a specific page results in a "404 Page Not Found" error. This guide helps you resolve it
 
+### Project Case Studies
+Deep dives into real-world projects I've worked on, with a focus on practical challenges and solutions.
 
+- **[Implementing GitOps with FluxCD on Azure Kubernetes Service (AKS)](#project-case-studies)**  
+  This case study explores how we leveraged FluxCD to implement GitOps on Azure Kubernetes Service (AKS). It covers the setup process, challenges faced, and the benefits of using GitOps for continuous deployment
+
+- **[Scaling Applications with Azure Kubernetes Service and GitOps](#project-case-studies)** 
+  This case study focuses on how we used Azure Kubernetes Service (AKS) and GitOps to scale applications efficiently. It discusses the architecture, deployment strategies, and the impact on application performance and reliability.
+
+- **[Optimizing Resource Management with Infrastructure as Code on Azure](#project-case-studies)** 
+  This project highlights how we optimized resource management on Azure using Infrastructure as Code (IaC) tools like ARM templates and Terraform. It discusses the strategies for resource allocation, cost management, and the overall impact on operational efficiency.
+
+- **[Deploying Microservices on Azure Kubernetes Service with GitOps](#project-case-studies)** 
+  This case study provides a detailed guide on deploying microservices on Azure Kubernetes Service (AKS) using GitOps. It covers the architecture, deployment process, and the benefits of using GitOps for managing microservices.
+
+
+---
+
+### Tool Reviews and Comparisons
+Unbiased reviews of popular DevOps tools, and my experiences working with them.
+- **[GitOps: ArgoCD vs FluxCD](#gitops-argocd-and-fluxcd)**  
+  An in-depth comparison of two GitOps solutions—when to use each, their strengths, and weaknesses.
+
+---
+
+### Industry Trends and News
+Keep up with the latest developments in DevOps and cloud technologies.
+- **[Trend Analysis: The Rise of GitOps](#industry-trends-and-news)**  
+  Why GitOps is rapidly becoming the preferred approach to managing infrastructure, and where the trend is heading.
+
+---
+
+### Interviews with Experts
+Conversations with experienced professionals from the DevOps world.
+- **[Interview with Josef Po, .NET Developer to DevOps engineer](#interviews-with-experts)**  
+  Insights from an DevOps expert in PPF
+  
+- **[Interview with Jakub H., Kubernetes Engineer](#interviews-with-experts)**  
+  Lessons from a seasoned Kubernetes engineer on managing containerized applications at scale in PPF
 
 ---
 
@@ -247,6 +245,7 @@ Do you have suggestions or found spelling or code errors? Raise an issue or crea
 *Special thanks to Microsoft Learn for their inspiring curricula. Their comprehensive and beginner-friendly courses have motivated me to create this DevOps curriculum to help others embark on their DevOps journey.*
 
 * [Machine Learning for Beginners](https://aka.ms/ml4beginners)
+* [Generative AI for Beginners](https://aka.ms/genai-beginners)
 * [Web Dev for Beginners](https://aka.ms/webdev-beginners)
 * [Cybersecurity for Beginners](https://aka.ms/security-101)
 * [ML for Beginners](https://aka.ms/ml-beginners)
