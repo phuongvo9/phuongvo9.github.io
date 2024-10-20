@@ -27,7 +27,6 @@ Here are some of the must-read posts to get started:
 ---
 
 ## Categories
----
 
 ### Tutorials and How-Tos
 Step-by-step guides to mastering essential DevOps skills.
@@ -41,7 +40,7 @@ Tips and personal experiences on growing your DevOps career.
 - **[Career Tip: Building Your DevOps Portfolio](/blogs/career-tip/building-your-devops-porfolio.md)**  
     Breaking into the DevOps field can be challenging, but with the right approach, you can build a strong portfolio that will help you land internships, fresher positions, and eventually, more advanced roles. This guide will walk you through the steps to create a compelling DevOps portfolio and provide tips for your career progression.  
 
-- **[Advice: Certifications That Matter](#career-advice)**  
+- **[Advice: Certifications That Matter](/blogs/career-advice/certification-in-devops-matter-or-not.md)**  
   A breakdown of the certifications that can boost your career in DevOps.
 
 
