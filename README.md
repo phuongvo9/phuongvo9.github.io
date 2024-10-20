@@ -30,11 +30,19 @@ Here are some of the must-read posts to get started:
 
 ### Project Case Studies
 Deep dives into real-world projects I've worked on, with a focus on practical challenges and solutions.
-- **[Case Study 1: Implementing Kubernetes in Production](#project-case-studies)**  
-  Learn how I deployed a highly scalable Kubernetes infrastructure in a live production environment. Challenges, solutions, and outcomes.
-  
-- **[Case Study 2: Migrating from Azure ARM templates to Terraform](#project-case-studies)**  
-  The journey of migrating a complex infrastructure from ARM templates to Terraform, with key lessons and best practices.
+
+- **[Implementing GitOps with FluxCD on Azure Kubernetes Service (AKS)](#project-case-studies)**  
+  This case study explores how we leveraged FluxCD to implement GitOps on Azure Kubernetes Service (AKS). It covers the setup process, challenges faced, and the benefits of using GitOps for continuous deployment
+
+- **[Scaling Applications with Azure Kubernetes Service and GitOps](#project-case-studies)** 
+  This case study focuses on how we used Azure Kubernetes Service (AKS) and GitOps to scale applications efficiently. It discusses the architecture, deployment strategies, and the impact on application performance and reliability.
+
+- **[Optimizing Resource Management with Infrastructure as Code on Azure](#project-case-studies)** 
+  This project highlights how we optimized resource management on Azure using Infrastructure as Code (IaC) tools like ARM templates and Terraform. It discusses the strategies for resource allocation, cost management, and the overall impact on operational efficiency.
+
+- **[Deploying Microservices on Azure Kubernetes Service with GitOps](#project-case-studies)** 
+  This case study provides a detailed guide on deploying microservices on Azure Kubernetes Service (AKS) using GitOps. It covers the architecture, deployment process, and the benefits of using GitOps for managing microservices.
+
 
 ---
 
@@ -121,7 +129,7 @@ Troubleshooting and problem-solving stories in live production or preprod enviro
 ---
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/phuongvohuy/)
+- LinkedIn: [Phuong.VoHuy](https://www.linkedin.com/in/phuongvohuy/)
 
 ---
 
