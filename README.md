@@ -87,7 +87,7 @@ Troubleshooting and problem-solving stories in live production or preprod enviro
 ### Project Case Studies
 Deep dives into real-world projects I've worked on, with a focus on practical challenges and solutions.
 
-- - **[Building a Scalable and Secure Media Management Solution on Azure Kubernetes Service](/project-case/building-a-scalable-secure-media-management-solution-aks)**  
+- **[Building a Scalable and Secure Media Management Solution on Azure Kubernetes Service](blogs/project-case/building-a-scalable-secure-media-management-solution-aks)**  
 
 - **[Implementing GitOps with FluxCD on Azure Kubernetes Service (AKS)](#project-case-studies)**  
   This case study explores how we leveraged FluxCD to implement GitOps on Azure Kubernetes Service (AKS). It covers the setup process, challenges faced, and the benefits of using GitOps for continuous deployment
