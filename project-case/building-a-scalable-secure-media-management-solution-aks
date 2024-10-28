@@ -1,0 +1,49 @@
+# Building a scalable and secure Media Management Solution on Azure Kubernetes
+
+
+## **Introduction**
+When developing a mobile application, managing and delivering media assets such as images, icons, and videos is crucial. As the volume and complexity of media content grow, traditional storage solutions often fall short. This blog addresses these challenges by proposing a robust and scalable solution leveraging Azure Kubernetes Service (AKS) and Azure Storage (File and Blob).
+
+Key Components of the Solution:
+
+Azure File Storage: Ideal for storing images and icons, Azure File Storage provides a scalable file share that can be mounted to virtual machines and containers.
+Azure Blob Storage: Optimized for storing large amounts of unstructured data, Azure Blob Storage is perfect for storing videos and other binary objects.
+Azure CDN: A global content delivery network that accelerates the delivery of media content to users worldwide, reducing latency and improving performance.
+Microservices Architecture: A modular approach that allows for independent development, deployment, and scaling of services, ensuring flexibility and scalability.
+
+
+## Architecture Overview
+
+### Media Storage
+
+**Azure File Storage for Images:**
+
+Azure File Storage is an excellent choice for storing images and icons due to its compatibility with the SMB protocol, which allows it to be easily mounted to virtual machines and containers. This makes it straightforward to manage and access image files across different services and applications.
+
+**Advantages:**
+- **Ease of Integration:** Can be mounted directly to VMs and containers, simplifying access and management.
+- **Scalability:** Supports large-scale file shares, accommodating growing storage needs.
+- **Compatibility:** Works seamlessly with existing applications that use standard file system APIs.
+
+**Disadvantages:**
+- **Performance:** May not be as fast as other storage options for high-throughput scenarios.
+- **Cost:** Can be more expensive compared to other storage solutions for large volumes of data.
+
+**Azure Blob Storage for Videos:**
+
+Azure Blob Storage is optimized for storing large amounts of unstructured data, making it ideal for videos and other binary objects. It provides high availability and durability, ensuring that your media content is always accessible and secure.
+
+**Advantages:**
+- **Scalability:** Can handle massive amounts of data, perfect for video storage.
+- **Cost-Effective:** Offers tiered storage options, allowing you to optimize costs based on access patterns.
+- **Performance:** Designed for high-throughput and low-latency access to large files.
+
+**Disadvantages:**
+- **Complexity:** Requires more management and configuration compared to file storage.
+- **Access:** Direct access to blobs may require additional setup and tools.
+
+**File Organization and Naming Conventions:**
+We can follow the maning convetion:
+
+- **Hierarchical Structure:** Organize files in a hierarchical directory structure based on categories such as type, date, or project. For example, `/images/icons/2024/` or `/videos/projectA/`.
+- **Descriptive Naming:** Use descriptive and consistent naming conventions that include relevant details such as date, type, and version. For example, `icon_logo_v1.png` or `projectA_intro_2024.mp4`.
