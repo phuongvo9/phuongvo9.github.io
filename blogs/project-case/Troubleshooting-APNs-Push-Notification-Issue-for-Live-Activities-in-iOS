@@ -1,0 +1,38 @@
+# Troubleshooting APNs Push Notification Issue for Live Activities in iOS
+
+## Overview
+In mobile app development, especially for iOS, **Apple Push Notification Service (APNs)** plays a crucial role in delivering notifications to users in real-time. This is essential for features like **Live Activities**, which display updates on the Lock Screen or in the Dynamic Island for newer iPhones. Recently, our team encountered an error while trying to send push notifications to APNs, and I’d like to share our journey of diagnosing and resolving it.
+
+## APNs and Live Activities
+- **APNs (Apple Push Notification Service)**: APNs is Apple's platform for sending notifications to iOS devices, enabling real-time updates and interactions.
+- **Live Activities**: Live Activities allow apps to display ongoing updates directly on the Lock Screen. For example, tracking a delivery or following live sports scores requires frequent notifications to keep the information up-to-date.
+
+To facilitate these notifications, APNs provides two environments:
+- **Development Environment**: `https://api.development.push.apple.com:443`
+- **Production Environment**: `https://api.push.apple.com:443`
+
+Our team configures the app to interact with the correct environment based on whether it's in development or production.
+
+## The Problem
+During a recent implementation, we encountered an error when attempting to send a POST request to APNs:
+```
+The SSL connection could not be established, see inner exception. Received an unexpected EOF or 0 bytes from the transport stream.
+```
+
+## Analyzing the Error
+The error suggests that the SSL/TLS connection with APNs failed. This kind of issue can arise due to various factors, including:
+
+1. **SSL/TLS Configuration Issues**: Incorrect setup of SSL/TLS certificates or protocols required for a secure connection to APNs.
+2. **Network Restrictions**: Firewalls or network restrictions could be blocking access to APNs.
+3. **Outdated Libraries or SDKs**: If the libraries handling APNs requests are outdated, they might fail to negotiate a secure connection.
+4. **Server-Side Connection Drops**: APNs might have terminated the connection unexpectedly, which can sometimes happen if configurations don’t match Apple’s requirements or if the server is overloaded.
+
+## Initial Troubleshooting Steps
+We’re taking the following steps to investigate and resolve the issue:
+1. **Verify SSL/TLS Configuration**: Checking certificate and configuration settings to ensure they align with APNs requirements.
+2. **Examine Network Accessibility**: Ensuring there are no network restrictions preventing access to the APNs URLs.
+3. **Review Code and Libraries**: Ensuring our code and libraries align with Apple’s latest documentation on APNs.
+4. **Analyze Logs for Additional Insights**: Using logs to identify any specific source or pattern related to the connection failure.
+
+## Next Steps
+Once we identify the root cause and implement a solution, we’ll update this blog with the resolution and any lessons learned from the process. For now, we hope this initial insight into APNs troubleshooting can help others facing similar issues.

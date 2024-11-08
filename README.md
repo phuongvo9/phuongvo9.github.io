@@ -102,6 +102,9 @@ Deep dives into real-world projects I've worked on, with a focus on practical ch
   This case study provides a detailed guide on deploying microservices on Azure Kubernetes Service (AKS) using GitOps. It covers the architecture, deployment process, and the benefits of using GitOps for managing microservices.
 
 
+- **[Troubleshooting APNs Push Notification Issue for Live Activities in iOS](blogs/project-case/Troubleshooting-APNs-Push-Notification-Issue-for-Live-Activities-in-iOS)** 
+
+
 ---
 
 ### Tool Reviews and Comparisons
