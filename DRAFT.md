@@ -47,6 +47,36 @@ Tips and personal experiences on growing your DevOps career.
 
 ---
 
+### Personal Reflections
+Thoughts and reflections on my own DevOps journey.
+- **[Reflection: What I’ve Learned from Failure](#personal-reflections)**  
+  A personal story of a failed deployment and the lessons learned from it.
+
+- **[Reflection: The Importance of Continuous Learning in DevOps](#personal-reflections)**  
+  Why staying on top of new tools and technologies is crucial in the fast-evolving field of DevOps.
+
+---
+
+### Book and Course Reviews
+Reviews of the best resources to help you upskill.
+- **[Book Review: The Phoenix Project](#book-and-course-reviews)**  
+  A review of this essential DevOps novel and why every DevOps engineer should read it.
+  
+- **[Course Review: Azure DevOps expert](#book-and-course-reviews)**  
+  A detailed review of the Azure DevOps expert certification course, including study tips and exam strategies.
+
+---
+
+### Community Involvement
+Sharing events and activities I've participated in within the DevOps community.
+- **[Event: DevOpsCon 2024](#community-involvement)**  
+  A summary of my experience attending DevOpsCon, including key takeaways from the talks and workshops.
+  
+- **[Event: Kubernetes Meetup](#community-involvement)**  
+  Insights from a Kubernetes meetup in my local tech community.
+
+---
+
 ### Problem-Solving Stories
 Troubleshooting and problem-solving stories in live production or preprod environments.
 - **[Understand Let's encrypt DNS SERVFAIL error](/blogs/problem-solving/2024-10-18-fix-dns-error-servfail-txt-acme-challenge.md)**  
@@ -71,15 +101,33 @@ Deep dives into real-world projects I've worked on, with a focus on practical ch
 - **[Deploying Microservices on Azure Kubernetes Service with GitOps](#project-case-studies)** 
   This case study provides a detailed guide on deploying microservices on Azure Kubernetes Service (AKS) using GitOps. It covers the architecture, deployment process, and the benefits of using GitOps for managing microservices.
 
+
 - **[Troubleshooting APNs Push Notification Issue for Live Activities in iOS](blogs/project-case/Troubleshooting-APNs-Push-Notification-Issue-for-Live-Activities-in-iOS)** 
 
 
 ---
 
 ### Tool Reviews and Comparisons
-  Reviews of popular DevOps tools, and my experiences working with them.
+Unbiased reviews of popular DevOps tools, and my experiences working with them.
 - **[GitOps: ArgoCD vs FluxCD](#gitops-argocd-and-fluxcd)**  
-  An comparison of two GitOps solutions—when to use each, their strengths, and weaknesses.
+  An in-depth comparison of two GitOps solutions—when to use each, their strengths, and weaknesses.
+
+---
+
+### Industry Trends and News
+Keep up with the latest developments in DevOps and cloud technologies.
+- **[Trend Analysis: The Rise of GitOps](#industry-trends-and-news)**  
+  Why GitOps is rapidly becoming the preferred approach to managing infrastructure, and where the trend is heading.
+
+---
+
+### Interviews with Experts
+Conversations with experienced professionals from the DevOps world.
+- **[Interview with Josef Po, .NET Developer to DevOps engineer](#interviews-with-experts)**  
+  Insights from an DevOps expert in PPF
+  
+- **[Interview with Jakub H., Kubernetes Engineer](#interviews-with-experts)**  
+  Lessons from a seasoned Kubernetes engineer on managing containerized applications at scale in PPF
 
 ---
 
@@ -186,13 +234,15 @@ What we will not cover in this curriculum:
 
 Don't forget to star (🌟) this repo to find it easier later.
 
+## Quizzes
+
+> **A note about quizzes**: All quizzes are contained in the Quiz-app folder in etc\quiz-app. They are linked from within the lessons. The quiz app can be run locally or deployed to Azure; follow the instructions in the `quiz-app` folder.
 
 ## Help Wanted
 
 Do you have suggestions or found spelling or code errors? Raise an issue or create a pull request.
 
 ## Special Thanks
-
 * **🙏 Core Contributors:** [Contributors](https://github.com/phuongvo9/phuongvo9.github.io/graphs/contributors)
 
 ## Inspired by Curricula from Microsoft Learn
@@ -210,3 +260,13 @@ Do you have suggestions or found spelling or code errors? Raise an issue or crea
 * [IoT for Beginners](https://aka.ms/iot-beginners)
 * [XR Development for Beginners](https://github.com/microsoft/xr-development-for-beginners)
 * [Mastering GitHub Copilot for AI Paired Programming](https://aka.ms/GitHubCopilotAI)
+
+===
+
+TODO:
+
+1. Add Personal reflection
+2. Book and Course Reviews
+3. Community involvment
+4. Industry trends and news
+5. Interview with Experts
