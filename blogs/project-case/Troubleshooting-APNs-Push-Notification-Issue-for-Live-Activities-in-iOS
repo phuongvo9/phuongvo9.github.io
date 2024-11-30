@@ -27,12 +27,6 @@ The error suggests that the SSL/TLS connection with APNs failed. This kind of is
 3. **Outdated Libraries or SDKs**: If the libraries handling APNs requests are outdated, they might fail to negotiate a secure connection.
 4. **Server-Side Connection Drops**: APNs might have terminated the connection unexpectedly, which can sometimes happen if configurations don’t match Apple’s requirements or if the server is overloaded.
 
-## Initial Troubleshooting Steps
-We’re taking the following steps to investigate and resolve the issue:
-1. **Verify SSL/TLS Configuration**: Checking certificate and configuration settings to ensure they align with APNs requirements.
-2. **Examine Network Accessibility**: Ensuring there are no network restrictions preventing access to the APNs URLs.
-3. **Review Code and Libraries**: Ensuring our code and libraries align with Apple’s latest documentation on APNs.
-4. **Analyze Logs for Additional Insights**: Using logs to identify any specific source or pattern related to the connection failure.
+## Resolution
 
-## Next Steps
-Once we identify the root cause and implement a solution, we’ll update this blog with the resolution and any lessons learned from the process. For now, we hope this initial insight into APNs troubleshooting can help others facing similar issues.
+Open FIREWALL from AKS clusters 
