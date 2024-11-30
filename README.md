@@ -210,3 +210,7 @@ Do you have suggestions or found spelling or code errors? Raise an issue or crea
 * [IoT for Beginners](https://aka.ms/iot-beginners)
 * [XR Development for Beginners](https://github.com/microsoft/xr-development-for-beginners)
 * [Mastering GitHub Copilot for AI Paired Programming](https://aka.ms/GitHubCopilotAI)
+
+# My courses besides DevOps
+
+* [AI Prompting Essentials](./courses/AI-Prompting-Essentials/README.md)
