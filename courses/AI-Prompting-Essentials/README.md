@@ -128,4 +128,5 @@ Check out this guide for a quick refresher about the prompting framework from Go
 
 ## Summary
 
-By following this frameworke, you can create precise and effective prompts that enhance the performance of Generative AI tools
+By following this frameworke, you can create precise and effective prompts that enhance the performance of Generative AI tools. Let's come to [quizzes](./modulel1-assignment/README.md)
+
