@@ -24,6 +24,16 @@ Welcome to **Module 1: Prompt Like a PRO**. In this lesson, you'll learn how to 
 4. **Evaluate**: Assess the AI's output for quality and relevance.
 5. **Iterate**: Refine your prompt based on the evaluation to improve results.
 
+You can remember TCREI framework as "Thoughtfully Create Excellent Inputs" like below:
+
+1. **Thoughtfully**: Describe your task, specifying a persona and format preference.
+2 **Create**: Include any context the gen AI tool might need to give you what you want.
+3 **Really**: Add references the gen AI tool can use to inform its output.
+4 **Excellent**: Next, evaluate the output to identify opportunities for improvement. 
+5 **Inputs**: Then, iterate on your initial prompt to attain those improvements.
+
+Check out this guide for a quick refresher about the prompting framework from Google Prompting Essentials course: 
+[Google Prompting Essentials: Key takeaways]()
 ---
 
 ## 1. Task
