@@ -126,7 +126,7 @@ What we will not cover in this curriculum:
 | 0  |                                 [Course Setup](./blogs/0-course-setup.md)                                 |                      [Setup Your Development Environment](./blogs/0-environment-setup.md)                       |   |
 | I  |               [**Getting started with the basics**](./blogs/1-getting-started-basics.md)      | | |
 | 1  |       [Introduction and History of DevOps](./blogs/1-introduction-history.md)       |           -                            | -  |
-| 2  |       [What is DevOps](./blogs/1-introduction-history.md)       |           -                            | -  |
+| 2  |       [Business case fore DevOps](./blogs/2-Business-case-for-DevOps)       |           -                            | -  |
 | 3  |       [People in DevOps](./blogs/3-people-in-devops.md)       |           -                            | -  |
 | 4  |       [Assses your software developement process](./blogs/4-assess-software-development-process.md)       |           -                            | -  |
 | 5  |       [Product and Technology in DevOps](./blogs/5-product-technology.md)       |           -                            | -  |
