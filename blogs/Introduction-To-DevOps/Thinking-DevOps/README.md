@@ -11,3 +11,4 @@ Thinking DevOps and getting results
 | 4  | [Minimum Viable Product - MVP](/blogs/Introduction-To-DevOps/Thinking-DevOps/4.Minimum-Viable-Product.md) |    - |   |
 | 5  | [Test Driven Development](/blogs/Introduction-To-DevOps/Thinking-DevOps/5.Test-Driven-Development.md) |    - |   |
 | 6  | [Behavior Driven Development](/blogs/Introduction-To-DevOps/Thinking-DevOps/6.Behavior-Driven-Development.md) |    - |   |
+| 7  | [Cloud Native Microservices](/blogs/Introduction-To-DevOps/Thinking-DevOps/7.Cloud-Native-Microservices.md) |    - |   |
