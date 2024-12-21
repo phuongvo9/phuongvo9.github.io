@@ -129,7 +129,15 @@ What we will not cover in this curriculum:
 | 2  |       [Business case for DevOps](./blogs/2-Business-case-for-DevOps.md)       |           -                            | [Lab](./blogs/Introduction-To-DevOps/M1-Assignment.md)  |
 | 2.3  |       [Embracing DevOps for Enterprise](./blogs/2.3-devops-adoption-enterprise.md)       |- | [Lab-2.3](./blogs/2.3-devops-adoption-quiz.md)  |
 | 3A  |       [Thinking in DevOps](./blogs/Introduction-To-DevOps/Thinking-DevOps/README.md)       |- | [Lab](./blogs/Introduction-To-DevOps/Thinking-DevOps/1.Social-coding-principle.md)  |
-| 3  |       [People in DevOps](./blogs/3-people-in-devops.md)       |           -                            | -  |
+| 3.1  | [Social Coding Principle](/blogs/Introduction-To-DevOps/Thinking-DevOps/1.Social-coding-principle.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
+| 3.2  | [Git Repository Guideline](/blogs/Introduction-To-DevOps/Thinking-DevOps/2.Git-Repository-Guideline.md) |    - |  [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md) |
+| 3.3  | [Work in small batches](/blogs/Introduction-To-DevOps/Thinking-DevOps/3.Work-in-small-batches.md) |    - |   [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)|
+| 3.4  | [Minimum Viable Product - MVP](/blogs/Introduction-To-DevOps/Thinking-DevOps/4.Minimum-Viable-Product.md) |    - |   [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)|
+| 3.5  | [Test Driven Development](/blogs/Introduction-To-DevOps/Thinking-DevOps/5.Test-Driven-Development.md) |    - |  [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md) |
+| 3.6  | [Behavior Driven Development](/blogs/Introduction-To-DevOps/Thinking-DevOps/6.Behavior-Driven-Development.md) | - |   [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)|
+| 3.7  | [Cloud Native Microservices](/blogs/Introduction-To-DevOps/Thinking-DevOps/7.Cloud-Native-Microservices.md) |    - |  [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md) |
+| 3.8  | [Designing For Failure](/blogs/Introduction-To-DevOps/Thinking-DevOps/8.Designing-For-Failure.md) |    - |  [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md) |
+| -  |       [People in DevOps](./blogs/3-people-in-devops.md)       |           -                            | -  |
 | 4  |       [Assses your software developement process](./blogs/4-assess-software-development-process.md)       |           -                            | -  |
 | 5  |       [Product and Technology in DevOps](./blogs/5-product-technology.md)       |           -                            | -  |
 | 6  |       [Linux Fundamentals](./blogs/6-linux-fundamentals.md)       |           -                            | -  |
