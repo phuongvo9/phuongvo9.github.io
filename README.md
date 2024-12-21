@@ -137,6 +137,11 @@ What we will not cover in this curriculum:
 | 3.6  | [Behavior Driven Development](/blogs/Introduction-To-DevOps/Thinking-DevOps/6.Behavior-Driven-Development.md) | - |   [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)|
 | 3.7  | [Cloud Native Microservices](/blogs/Introduction-To-DevOps/Thinking-DevOps/7.Cloud-Native-Microservices.md) |    - |  [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md) |
 | 3.8  | [Designing For Failure](/blogs/Introduction-To-DevOps/Thinking-DevOps/8.Designing-For-Failure.md) |    - |  [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md) |
+| -  | Working in DevOps | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
+| 4.1  | [Case Against Taylorism in Software Development](/blogs/Introduction-To-DevOps/Working-DevOps/1-Moving-beyond-taylorism-and-silos.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
+| 4.2  | [Software Engineering vs. Civil Engineering](/blogs/Introduction-To-DevOps/Working-DevOps/2-software-engineering-vs-civil-engineering.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
+| 4.3  | [Required DevOps Behaviors](/blogs/Introduction-To-DevOps/Working-DevOps/3-Required-DevOps-behaviors.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
+| 4 Quizz  | [Choose DevOps Behaviors](/blogs/Introduction-To-DevOps/Working-DevOps/3Q-Choose-DevOps-Behaviors.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
 | -  |       [People in DevOps](./blogs/3-people-in-devops.md)       |           -                            | -  |
 | 4  |       [Assses your software developement process](./blogs/4-assess-software-development-process.md)       |           -                            | -  |
 | 5  |       [Product and Technology in DevOps](./blogs/5-product-technology.md)       |           -                            | -  |
