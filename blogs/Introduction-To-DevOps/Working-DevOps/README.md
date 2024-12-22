@@ -10,4 +10,6 @@ Working in DevOps requires a shift from traditional management styles to a more 
 | 3  | [Required DevOps Behaviors](/blogs/Introduction-To-DevOps/Working-DevOps/3-Required-DevOps-behaviors.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
 | 3A  | [Choose DevOps Behaviors](/blogs/Introduction-To-DevOps/Working-DevOps/3Q-Choose-DevOps-Behaviors.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
 | 4  | [Infrastructure as Code (IaC)](/blogs/Introduction-To-DevOps/Working-DevOps/4-infrastructure-as-code.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
-| 5  | [Continuous Integration and Continuous Delivery (CI/CD)](/blogs/Introduction-To-DevOps/Working-DevOps/5-continuous-integration-cd.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
+| 5  | [Continuous Integration](/blogs/Introduction-To-DevOps/Working-DevOps/5-continuous-integration-cd.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
+| 6  | [Continuous Delivery](/blogs/Introduction-To-DevOps/Working-DevOps/6-continuous-delivery.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
+| 7  | [Organizational Impact of DevOps](/blogs/Introduction-To-DevOps/Working-DevOps/7-organizational-impact-of-devops.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
