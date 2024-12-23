@@ -54,6 +54,9 @@ Troubleshooting and problem-solving stories in live production or preprod enviro
 - **[Fixing 404 Errors on a Docsify Site Hosted on GitHub Pages](./blogs/problem-solving/2024-10-15-fix-404-error-docsify-github-pages.md)**  
   If you're using Docsify to host your static website on GitHub Pages, you might have encountered a frustrating issue: navigating directly to a specific page results in a "404 Page Not Found" error. This guide helps you resolve it
 
+- **[Fixing Git Push Error with Multiple GitHub Accounts](./blogs/problem-solving/2024-12-23-Fixing-Git-Push-Error-with-Multiple-GitHub-Accounts.md)**
+
+
 ### Project Case Studies
 Deep dives into real-world projects I've worked on, with a focus on practical challenges and solutions.
 
