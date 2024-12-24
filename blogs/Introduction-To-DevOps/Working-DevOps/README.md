@@ -13,3 +13,5 @@ Working in DevOps requires a shift from traditional management styles to a more 
 | 5  | [Continuous Integration](/blogs/Introduction-To-DevOps/Working-DevOps/5-continuous-integration-cd.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
 | 6  | [Continuous Delivery](/blogs/Introduction-To-DevOps/Working-DevOps/6-continuous-delivery.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
 | 7  | [Organizational Impact of DevOps](/blogs/Introduction-To-DevOps/Working-DevOps/7-organizational-impact-of-devops.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
+| 8  | [There is no DevOps Team](/blogs/Introduction-To-DevOps/Working-DevOps/8-there-is-no-devops-team.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
+| 9  | [Everyone is Responsible for Success](/blogs/Introduction-To-DevOps/Working-DevOps/9-everyone-is-responsible-for-success.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |

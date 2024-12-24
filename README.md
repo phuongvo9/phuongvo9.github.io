@@ -149,6 +149,8 @@ What we will not cover in this curriculum:
 | 4.5  | [Continuous Integration](/blogs/Introduction-To-DevOps/Working-DevOps/5-continuous-integration-cd.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
 | 4.6  | [Continuous Delivery](/blogs/Introduction-To-DevOps/Working-DevOps/6-continuous-delivery.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
 | 4.7  | [Organizational Impact of DevOps](/blogs/Introduction-To-DevOps/Working-DevOps/7-organizational-impact-of-devops.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
+| 4.8  | [There is no DevOps Team](/blogs/Introduction-To-DevOps/Working-DevOps/8-there-is-no-devops-team.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
+| 4.9  | [Everyone is Responsible for Success](/blogs/Introduction-To-DevOps/Working-DevOps/9-everyone-is-responsible-for-success.md) | -   | [Quizz](/blogs/Introduction-To-DevOps/Thinking-DevOps/Quizz.md)| |
 | -  |       [People in DevOps](./blogs/3-people-in-devops.md)       |           -                            | -  |
 | 4  |       [Assses your software developement process](./blogs/4-assess-software-development-process.md)       |           -                            | -  |
 | 5  |       [Product and Technology in DevOps](./blogs/5-product-technology.md)       |           -                            | -  |
