@@ -73,7 +73,7 @@ flowchart TB
 ### Concept Mindmap
 ```mermaid
 mindmap
-  root((DevOps & SRE))
+  root((DevOps vs SRE))
     SRE
         Error Budgets
         Separate Teams
