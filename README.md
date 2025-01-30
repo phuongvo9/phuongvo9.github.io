@@ -44,7 +44,8 @@ Tips and personal experiences on growing your DevOps career.
 - **[Advice: Certifications That Matter](/blogs/career-advice/certification-in-devops-matter-or-not.md)**  
   A breakdown of the certifications that can boost your career in DevOps.
 
-
+- **[Machine learning beginner's guide](/blogs/career-advice/machine-learning-beginners-guide.md)**  
+  A beginner's guide to machine learning path for beginner
 ---
 
 ### Problem-Solving Stories
